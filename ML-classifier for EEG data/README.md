@@ -1,7 +1,8 @@
-# posts
+# ML-based Classifier for EEG data
 
 This project is based on the [work by the Impulse Neiry team](https://habr.com/ru/post/480060/).
 We took their approach to preprocessing of EEG data and added several ML-based classification models.
+
 
 Below is the description from Impulse Neiry's blogpost:
 
