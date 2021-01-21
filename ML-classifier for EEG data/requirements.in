@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+pyriemann
+torch
+mne==0.17.*
+ipykernel
